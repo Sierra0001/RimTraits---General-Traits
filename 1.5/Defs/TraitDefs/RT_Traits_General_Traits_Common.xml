@@ -81,6 +81,7 @@
       </li>
     </degreeDatas>
     <conflictingTraits>
+      <li>Nimble</li>
       <li>RT_Athletic</li>
     </conflictingTraits>
   </TraitDef>
